@@ -1,0 +1,6 @@
+*.sdf
+CarLogoRecognition/CarLogoRecognition.vcxproj
+*.filters
+CarLogoRecognition/CarLogoRecognition.vcxproj.user
+*.lastbuildstate
+CarLogoRecognition/Debug/CL.read.1.tlog
