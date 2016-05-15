@@ -10,7 +10,7 @@
 #include <string.h>
 #include<windows.h>
 #include <filesystem>
-#pragma comment (lib, "shell32.lib ")
+//#pragma comment (lib, "shell32.lib ")
 
 using namespace std;
 using namespace std::tr2::sys;
@@ -63,11 +63,11 @@ int main()
 		//next = iterL->path().string();
 		cnt++;
 
-	}while(cnt<10);//cur.compare(next));
+	}while(cnt<9);//cur.compare(next));
 	
 
 	//Начинаем перебирать фотки
-	path pathToPhotos = "C:\\curs\\Test"; 
+	path pathToPhotos = "C:\\CarModel\\хонда";// "C:\\curs\\Test"; 
 	directory_iterator  iterP(pathToPhotos);
 	path curP;
 	do
