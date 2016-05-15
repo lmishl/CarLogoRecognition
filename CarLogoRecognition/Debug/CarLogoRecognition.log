@@ -1,10 +1,6 @@
-﻿Построение начато 15.05.2016 18:47:48.
+﻿Построение начато 15.05.2016 19:21:49.
      1>Проект "C:\Users\NoteBook\Dropbox\Univer\CarLogoRecognition\CarLogoRecognition\CarLogoRecognition.vcxproj" в узле 2 (целевые объекты Build).
-     1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /IC:\OpenCV\build\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt CarLogoRecognition.cpp
-         CarLogoRecognition.cpp
-     1>cl : командная строка warning D9028: сбой минимального перестроения, возврат к обычному построению
-       Link:
+     1>Link:
          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\NoteBook\Dropbox\Univer\CarLogoRecognition\Debug\CarLogoRecognition.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\OpenCV\build\x86\vc11\lib opencv_calib3d2412d.lib opencv_contrib2412d.lib opencv_core2412d.lib opencv_features2d2412d.lib opencv_flann2412d.lib opencv_gpu2412d.lib opencv_highgui2412d.lib opencv_imgproc2412d.lib opencv_legacy2412d.lib opencv_ml2412d.lib opencv_nonfree2412d.lib opencv_objdetect2412d.lib opencv_photo2412d.lib opencv_stitching2412d.lib opencv_superres2412d.lib opencv_ts2412d.lib opencv_video2412d.lib opencv_videostab2412d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\NoteBook\Dropbox\Univer\CarLogoRecognition\Debug\CarLogoRecognition.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\NoteBook\Dropbox\Univer\CarLogoRecognition\Debug\CarLogoRecognition.lib" /MACHINE:X86 Debug\CarLogoRecognition.obj
          Debug\stdafx.obj
          CarLogoRecognition.vcxproj -> C:\Users\NoteBook\Dropbox\Univer\CarLogoRecognition\Debug\CarLogoRecognition.exe
@@ -12,4 +8,4 @@
 
 Построение успешно завершено.
 
-Затраченное время: 00:00:03.37
+Затраченное время: 00:00:00.40
