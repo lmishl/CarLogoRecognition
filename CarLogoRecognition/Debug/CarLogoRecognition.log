@@ -1,4 +1,4 @@
-﻿Построение начато 14.05.2016 18:11:46.
+﻿Построение начато 15.05.2016 18:25:10.
      1>Проект "C:\Users\NoteBook\Dropbox\Univer\CarLogoRecognition\CarLogoRecognition\CarLogoRecognition.vcxproj" в узле 2 (целевые объекты Build).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /IC:\OpenCV\build\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt CarLogoRecognition.cpp
@@ -11,4 +11,4 @@
 
 Построение успешно завершено.
 
-Затраченное время: 00:00:03.15
+Затраченное время: 00:00:03.39
